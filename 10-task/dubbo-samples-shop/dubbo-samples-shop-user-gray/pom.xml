@@ -87,6 +87,7 @@
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo-spring-boot-tracing-otel-otlp-starter</artifactId>
+            <version>${dubbo.version}</version>
         </dependency>
 
         <dependency>
